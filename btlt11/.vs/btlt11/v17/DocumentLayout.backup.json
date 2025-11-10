@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\views\\home\\dashboardcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\views\\home\\dashboardcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\wwwroot\\assets\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\wwwroot\\assets\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|c:\\cnpm2-hk1\\ppptpm\\btlt11\\btlt11\\btlt11\\btlt11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CBEE849-6AD2-4F79-B78A-3013D1C1A9A9}|btlt11\\btlt11.csproj|solutionrelative:btlt11\\btlt11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Program.cs",
+              "RelativeDocumentMoniker": "btlt11\\Program.cs",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Program.cs",
+              "RelativeToolTip": "btlt11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:25:49.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "btlt11\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "btlt11\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T06:12:14.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "btlt11\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "btlt11\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T07:27:39.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "btlt11\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "btlt11\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T06:06:00.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "btlt11\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "btlt11\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T07:30:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\appsettings.json",
+              "RelativeDocumentMoniker": "btlt11\\appsettings.json",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\appsettings.json",
+              "RelativeToolTip": "btlt11\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T06:07:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "btlt11\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "btlt11\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAjwHIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T06:20:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "btlt11\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "btlt11\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:31:59.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "btlt11\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "btlt11\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:05:17.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\wwwroot\\Assets\\Admin\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "btlt11\\wwwroot\\Assets\\Admin\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\wwwroot\\Assets\\Admin\\css\\sb-admin-2.css",
+              "RelativeToolTip": "btlt11\\wwwroot\\Assets\\Admin\\css\\sb-admin-2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-10T06:45:02.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardContent.cshtml",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Home\\DashboardContent.cshtml",
+              "RelativeDocumentMoniker": "btlt11\\Views\\Home\\DashboardContent.cshtml",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Home\\DashboardContent.cshtml",
+              "RelativeToolTip": "btlt11\\Views\\Home\\DashboardContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T06:30:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "btlt11",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\btlt11.csproj",
+              "RelativeDocumentMoniker": "btlt11\\btlt11.csproj",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\btlt11.csproj",
+              "RelativeToolTip": "btlt11\\btlt11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T06:16:05.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "btlt11\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\CNPM2-HK1\\ppptpm\\btlt11\\btlt11\\btlt11\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "btlt11\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-10T06:32:16.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
